@@ -506,3 +506,4 @@ wp-config.php~
 wvdial.conf
 zebra.conf
 ~database
+_vti_bin/lists.asmx?WSDL
