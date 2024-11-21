@@ -1,5 +1,5 @@
-<Script>alert(NFSU)</script>
-<Script>alert(NFSU)</script>
+<Script>alert(NFSU)</script>.asp
+<Script>alert(NFSU)</script>.aspx
 <Script>alert(NFSU)</script>
 <Script>alert(NFSU)</script>
 <Script>alert(NFSU)</script>
